@@ -1,0 +1,14 @@
+[
+    {"month": "January", "count": 46}, 
+    {"month": "February", "count": 33}, 
+    {"month": "March", "count": 76}, 
+    {"month": "April", "count": 50}, 
+    {"month": "May", "count": 53}, 
+    {"month": "June", "count": 56}, 
+    {"month": "July", "count": 44}, 
+    {"month": "August", "count": 48},
+    {"month": "September", "count": 34}, 
+    {"month": "October", "count": 25}, 
+    {"month": "November", "count": 24}, 
+    {"month": "December", "count": 27}
+]

@@ -1,0 +1,184 @@
+[ 
+
+{
+    "album": "Blood Sugar Sex Magik",
+    "year": "1991",
+    "song_name": "Suck My Kiss",
+    "popularity": 1561,
+    "key": "F"
+},
+{
+    "album": "Blood Sugar Sex Magik",
+    "year": "1991",
+    "song_name": "Give It Away",
+    "popularity": 1650,
+    "key": "A"
+},
+
+{
+    "album": "Blood Sugar Sex Magik",
+    "year": "1991",
+    "song_name": "Mellowship Slinky in B Major",
+    "popularity": 1864,
+    "key": "B"
+},
+{
+    "album": "Blood Sugar Sex Magik",
+    "year": "1991",
+    "song_name": "Soul to Squeeze",
+    "popularity": 2347,
+    "key": "F"
+},
+{
+    "album": "Blood Sugar Sex Magik",
+    "year": "1991",
+    "song_name": "If You Have to Ask",
+    "popularity": 3427,
+    "key": "A#"
+},
+{
+    "album": "Blood Sugar Sex Magik",
+    "year": "1991",
+    "song_name": "I Could Have Lied",
+    "popularity": 3726,
+    "key": "D"
+},
+{
+    "album": "Blood Sugar Sex Magik",
+    "year": "1991",
+    "song_name": "Under the Bridge",
+    "popularity": 8550,
+    "key": "E"
+ },
+ 
+ {
+    "album": "One Hot Minute",
+    "year": "1995",
+    "song_name": "Aeroplane",
+    "popularity": 1605,
+    "key": "A#"
+ },
+
+ {
+    "album": "Californication",
+    "year": "1999",
+    "song_name": "Around the World",
+    "popularity": 1152,
+    "key": "D#"
+ },
+ {
+    "album": "Californication",
+    "year": "1999",
+    "song_name": "Parallel Universe",
+    "popularity": 1775,
+    "key": "C"
+ },
+ {
+    "album": "Californication",
+    "year": "1999",
+    "song_name": "Scar Tissue",
+    "popularity": 2732,
+    "key": "F"
+ },
+ {
+    "album": "Californication",
+    "year": "1999",
+    "song_name": "Otherside",
+    "popularity": 7494,
+    "key": "C"
+ },
+ {
+    "album": "Californication",
+    "year": "1999",
+    "song_name": "Californication",
+    "popularity": 10165,
+    "key": "C"
+ },
+
+ {
+    "album": "By the Way",
+    "year": "2002",
+    "song_name": "By the Way",
+    "popularity": 1487,
+    "key": "F"
+ },
+ {
+    "album": "By the Way",
+    "year": "2002",
+    "song_name": "The Zephyr Song",
+    "popularity": 2669,
+    "key": "C"
+ },
+ {
+    "album": "By the Way",
+    "year": "2002",
+    "song_name": "Don't Forget Me",
+    "popularity": 2905,
+    "key": "C"
+ },
+ {
+    "album": "By the Way",
+    "year": "2002",
+    "song_name": "Can't Stop",
+    "popularity": 2998,
+    "key": "G"
+ },
+
+ {
+    "album": "Stadium Arcadium",
+    "year": "2006",
+    "song_name": "Slow Cheetah",
+    "popularity": 1118,
+    "key": "C#"
+ },
+ {
+    "album": "Stadium Arcadium",
+    "year": "2006",
+    "song_name": "Stadium Arcadium",
+    "popularity": 1751,
+    "key": "A"
+ },
+ {
+    "album": "Stadium Arcadium",
+    "year": "2006",
+    "song_name": "Wet Sand",
+    "popularity": 1870,
+    "key": "G"
+ },
+ {
+    "album": "Stadium Arcadium",
+    "year": "2006",
+    "song_name": "Charlie",
+    "popularity": 1998,
+    "key": "A#"
+ },
+ {
+    "album": "Stadium Arcadium",
+    "year": "2006",
+    "song_name": "Tell Me Baby",
+    "popularity": 2228,
+    "key": "C"
+ },
+ {
+    "album": "Stadium Arcadium",
+    "year": "2006",
+    "song_name": "Snow",
+    "popularity": 2311,
+    "key": "B"
+ },
+ {
+    "album": "Stadium Arcadium",
+    "year": "2006",
+    "song_name": "Dani California",
+    "popularity": 2628,
+    "key": "C"
+ },
+
+ {
+    "album": "I'm with You",
+    "year": "2011",
+    "song_name": "The Adventures of Rain Dance Maggie",
+    "popularity": 2009,
+    "key": "G"
+ }
+]
